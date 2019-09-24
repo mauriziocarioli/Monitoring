@@ -1,0 +1,3 @@
+=Red Hat Business Automation Monitoring
+
+Please extend the abstract classes provided to fit your own situation.
