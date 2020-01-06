@@ -1,6 +1,6 @@
 = Red Hat Business Automation Process and Decision Tracing
 
-Install the jar file in the Kie Server lib directory.
+Rum mvn clean package and install the jar file in the Kie Server lib directory.
 
 Please extend the abstract classes provided here in order to fit your own situation.
 
